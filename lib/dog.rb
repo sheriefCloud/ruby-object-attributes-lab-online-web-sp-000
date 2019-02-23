@@ -8,7 +8,7 @@ class Dog
 
   def name
     @name
-  enda
+  end
 
   def breed=(dog_breed)
     @breed = dog_breed
